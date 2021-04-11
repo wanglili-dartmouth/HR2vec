@@ -6,4 +6,4 @@ from .struc2vec import Struc2Vec
 from .HR2vec import HR2vec
 
 
-__all__ = ["DeepWalk", "Node2Vec", "LINE", "SDNE", "Struc2Vec","HR2vec"]
+__all__ = ["HR2vec"]
