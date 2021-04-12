@@ -1,6 +1,6 @@
 # HR2vec
-
-## How to use
+Our model can be found in  /ge/models/HR2vec.py
+## How to replicate experiments in our paper
 
 evaluate_classification.py   	node classification experiments 
 
@@ -19,5 +19,5 @@ Knowledge Discovery and Data Mining, SigKDD, 2017.
 https://github.com/shenweichen/GraphEmbedding
 
 
-## Citation
+
 
